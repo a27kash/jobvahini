@@ -1,0 +1,16 @@
+Ques1.  Sort an array of numbers in ascending order.
+eg: [7,8,5,4]
+output: [4,5,7,8]
+
+Ques2. Replace all occurence of vowels with hyphen in the string.
+eg: It is cloudy outside.
+output: -t -s cl--dy --ts-d-
+
+Ques3. Reverse an array of strings.
+eg: ['hi','this','is','sponge-bob']
+output: ['sponge-bob','is','this','hi']
+
+Under the assignments folder create a folder under your name. Like /assignments/{name}.
+Inside the name folder create a folder with this file title i.e string_arrays_sol
+So finally you should be in the folder /assignments/{name}/string_arrays_sol.
+Under this folder you should have 3 files, one for the solution of each question.
