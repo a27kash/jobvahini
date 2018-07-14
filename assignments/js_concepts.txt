@@ -1,0 +1,11 @@
+1. What is functional Programming ? List its important aspects.
+2. Does JS support OOP ? if yes how is it different from classical OOPS ?
+3. What is meant by asynchronous and synchronous programming ?
+4. What are the different data types supported in Javascript ?
+5. What is the difference between null and undefined ?
+6. What is meant by scope ? How is the variable scope determined in JS ?
+7. What is the use of this keyword ?
+8. How are arguments passed in JS ? Is it by pass by value or reference ?
+9. What is meant by Hoisting ? Given an example.
+10. What is Strict mode in JS ? 
+11. Difference between while and do-while loop.
